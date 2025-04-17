@@ -1,4 +1,4 @@
-# NTT DATA Bootcamp - Engenharia de Dados, by Digital Innovation One
+# NTT DATA Bootcamp - Engenharia de Dados com Python, by Digital Innovation One
 
 ## Project Challenge - Descriptive Analysis of Financial Sample
 
