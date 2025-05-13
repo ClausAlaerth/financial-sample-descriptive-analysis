@@ -4,8 +4,8 @@
 
 The challenge involved the replication of two pages worth of graphics dealing with the reports of numerous elements of a dataset, along with the creation of a third page from zero and without help.
 
-![financial-sample-1](C:\Users\Claus_Alaerth\OneDrive\Programacao\bootcamp_engenharia_dados_python\1_fundamentos_power_bi\4_introducao_power_bi\datasets_repos\financial_sample\power_bi_report\financial-sample-1.png)
+![financial-sample-1](https://github.com/user-attachments/assets/296b92fd-71af-4db4-832e-39e53507a659)
 
-![financial-sample-2](C:\Users\Claus_Alaerth\OneDrive\Programacao\bootcamp_engenharia_dados_python\1_fundamentos_power_bi\4_introducao_power_bi\datasets_repos\financial_sample\power_bi_report\financial-sample-2.png)
+![financial-sample-2](https://github.com/user-attachments/assets/105a7744-2437-4742-bc98-f340bde6df5c)
 
-![financial-sample-3](C:\Users\Claus_Alaerth\OneDrive\Programacao\bootcamp_engenharia_dados_python\1_fundamentos_power_bi\4_introducao_power_bi\datasets_repos\financial_sample\power_bi_report\financial-sample-3.png)
+![financial-sample-3](https://github.com/user-attachments/assets/b9a61389-9625-4043-a521-a947e5225b84)
